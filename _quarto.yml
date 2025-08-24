@@ -4,31 +4,29 @@ project:
   
 website:
   page-navigation: true
-  title: "Hello, I'm Chi"
-  site-url: https://chizapoth.github.io
-  favicon: misc/info/favicon.png
-  repo-url: https://github.com/chizapoth/chizapoth.github.io
+  title: "Hello, I'm Dover. Yuning"
+  site-url: https://doveryuning.github.io
+  favicon: misc/info/bo.png
+  repo-url: https://doveryuning.github.io
   repo-actions: [edit, issue]
   
   page-footer: 
-    left: "&copy; Copyright 2024, Chi Zhang"
+    left: "&copy; Copyright 2025, Dover Yuning"
     right: 
       - icon: github
-        href: https://github.com/chizapoth/chizapoth.github.io
+        href: https://doveryuning.github.io
 
   navbar: 
     background: "#A9CCE3"
     search: true
     right: 
-      - text: "Projects"
-        href: projects/projects.qmd
-      
+     
+      - text: "Research"
+        href: research/research.qmd
+
       - text: "Teaching"
         href: teaching/teaching.qmd
-        
-      - text: "R packages"
-        href: rpkg/rpkg.qmd
-           
+
       - text: "Talks"
         href: talks/talks.qmd
 
